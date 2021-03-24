@@ -1,4 +1,4 @@
-# approach_TIMA-ArcGIS-Python-MATLAB
+# Approach: Lithologically contextualising measured grains
 This repository contains all scipts needed to conduct the new approach of ...
 
 ## Table of contents
