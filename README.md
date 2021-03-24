@@ -2,10 +2,10 @@
 This repository contains all scipts needed to conduct the new approach of ...
 
 ## Table of contents
-* [How everything works](#How everything works)
-* [What you need](#What you need)
+* [How everything works](#How-everything-works)
+* [What you need](#What-you-need)
 
 ## How everything works
-![Workflow](./images/workflow_approach.png)
+![Workflow](./workflow_approach.png)
 
 ## What you need
